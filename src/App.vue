@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import FlexibleInput from "./components/FlexibleInput.vue";
+import FlexibleInput from "./FlexibleInput.vue";
 
 export default {
   name: "App",
